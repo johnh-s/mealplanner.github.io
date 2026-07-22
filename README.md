@@ -8,5 +8,8 @@
   <p>Click the below to download the MealPlanner application version 2.1.0.</p>
   <p>Meals are now saved to JSON file.</p>
   <a href="MealPlanner.exe" download>Download App</a>
+  <p>Download version 2.2.0</p>
+  <p>Rewritten Tkinter GUI to CustomTkinter.</p>
+  <a href="MealPlanner_v2.2.0.exe" download>Download v2.2.0</a>
 </body>
 </html>
